@@ -134,11 +134,32 @@
 
 ## ИЗТОЧНИЦИ И ЛИТЕРАТУРА
 
-1. Иванов, И., П. Стойков. Операционни системи-част 1, Издателство 'Фараго' София, 2012
-2. Мюлер, С. Компютърна Енциклопедия, Част I, II, III - 22-ро издание, Алекс Софт, 2017
-3. Николов, Л. Операционни системи. Технически университет. София, 2009
-4. Онлайн ресурси: hardware.bg, guru99.com, wikipedia.org
+Основна литература (по учебна програма на МОН):
 
+D. K. Academy. Практически наръчник по системно и мрежово администриране. Windows Server 2019, Издателство „Асеневци", 2019
+Мюлер, С. Компютърна Енциклопедия, 24-то издание, Алекс Софт, 2020
+
+Допълнителна литература:
+
+Stanek, W. R. Windows Server 2022 Inside Out, Microsoft Press, 2022
+Warner, T. PowerShell in a Month of Lunches, 4th Edition, Manning, 2022
+Krause, J. Mastering Windows Server 2022, Packt Publishing, 2023
+
+Онлайн ресурси:
+
+Microsoft Learn: Windows Server — learn.microsoft.com/en-us/windows-server
+Microsoft Learn: PowerShell — learn.microsoft.com/en-us/powershell
+Active Directory Documentation — learn.microsoft.com/en-us/windows-server/identity
+IIS Documentation — learn.microsoft.com/en-us/iis
+Server Academy — serveracademy.com
+
+Нормативни документи:
+
+Учебна програма на МОН по „Учебна практика: Компютърни архитектури и операционни системи", XII клас, специалност 482021
+
+Методически бележки:
+
+Урочните планове са разработени с помощта на AI асистент (Claude, Anthropic) за структуриране и обогатяване на съдържанието. Всички технически данни са верифицирани спрямо официалната документация на Microsoft и утвърдената учебна литература.
 ---
 
 **Изготвил:** Мариян Йорданов
