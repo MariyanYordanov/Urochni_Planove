@@ -121,11 +121,11 @@ Krause, J. Mastering Windows Server 2022, Packt Publishing, 2023
 
 Онлайн ресурси:
 
-Microsoft Learn: Windows Server — learn.microsoft.com/en-us/windows-server
-Microsoft Learn: PowerShell — learn.microsoft.com/en-us/powershell
-Active Directory Documentation — learn.microsoft.com/en-us/windows-server/identity
-IIS Documentation — learn.microsoft.com/en-us/iis
-Server Academy — serveracademy.com
+- Microsoft Learn: Windows Server — learn.microsoft.com/en-us/windows-server
+- Microsoft Learn: PowerShell — learn.microsoft.com/en-us/powershell
+- Active Directory Documentation — learn.microsoft.com/en-us/windows-server/identity
+- IIS Documentation — learn.microsoft.com/en-us/iis
+- Server Academy — serveracademy.com
 
 Нормативни документи:
 
